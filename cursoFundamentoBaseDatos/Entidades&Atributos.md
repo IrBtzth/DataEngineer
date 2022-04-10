@@ -8,7 +8,10 @@ Los atributos llave son aquellos que identifican a la entidad y no pueden ser re
 - Clave artificial: no es inherente al objeto y se asigna de manera arbitraria.
 
 Entidades fuertes: son entidades que pueden sobrevivir por sí solas.
-Entidades débiles: no pueden existir sin una entidad fuerte y se representan con un cuadrado con doble línea.
+<p>Entidades débiles: no pueden existir sin una entidad fuerte y se representan con un cuadrado con doble línea.</p>
 
 - Identidades débiles por identidad: no se diferencian entre sí más que por la clave de su identidad fuerte.
 - Identidades débiles por existencia: se les asigna una clave propia.
+![diagramaBaseDeDatos1](https://user-images.githubusercontent.com/57947170/162599578-0bfb3906-3634-4420-86fb-9252f1986501.png)
+
+![diagramaBaseDeDatos](https://user-images.githubusercontent.com/57947170/162599292-61f6517e-ef6a-4dda-84db-4472bec0d8f9.png)
