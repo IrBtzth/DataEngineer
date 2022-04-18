@@ -38,3 +38,34 @@ Aplican al carácter o sentencia que preceden
 - \d+: Esto es que puede estar muchas veces o una sola vez un digito.
 
 # Video Los contadores {1,4}
+
+**Contadores:** Aplicando a un carácter que lo preceda se puede colocar entre llaves de esta forma, para indicarle que busque la cantidad deseada de caracteres.
+
+{Cota inferiror, Cota superior}
+
+Ejemplo:
+
+\d{0,2}: Esto buscara 0, 1, 2 dígitos
+
+\d{2,2}: Esto buscara 2 dígitos
+
+\d{2}: Esto buscara 2 dígitos
+
+\d{2,}: Esto buscara 2 o más dígitos.
+
+\d{2,4}: Esto buscara 2, 3, 4 dígitos.
+
+# Video 9 El caso de (?) como delimitador
+
+**Delimitador ?:** Los matches los hace lo más pequeños posibles.Es decir, haz el match pero los divides en grupos pequeños.
+
+*? Coincide con el elemento anterior cero o más veces, pero el menor número de veces que sea posible.
+
++? Coincide con el elemento anterior una o más veces, pero el menor número de veces que sea posible.
+
+?? Coincide con el elemento anterior cero o una vez, pero el menor número de veces que sea posible
+
+# Video 10 Not (^), su uso y sus peligros
+
+
+
