@@ -139,6 +139,9 @@ el $ se utiliza para indicar final de línea
 Find: [\?&](\w+)=([^&\n]+)
 Replace: \n - $1=$2
 
+# Video 21 Perl
+![image](https://user-images.githubusercontent.com/57947170/166990152-796e317d-0207-4834-9b50-fa14723caedf.png)
+![image](https://user-images.githubusercontent.com/57947170/166990348-b961c36f-1e7f-4258-987f-f6b4372bd315.png)
 
 
 
