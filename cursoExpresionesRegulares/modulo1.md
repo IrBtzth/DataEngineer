@@ -132,6 +132,13 @@ el $ se utiliza para indicar final de línea
 
 ![image](https://user-images.githubusercontent.com/57947170/163838404-e19180a3-a714-4364-b5fe-b695a04b33b2.png)
 
+# Video 20 Uso de REGEX para descomponer querys GET
+
+![image](https://user-images.githubusercontent.com/57947170/166972698-a26947d7-60ed-49ef-86e5-09f7d4091f3d.png)
+![image](https://user-images.githubusercontent.com/57947170/166972764-4385874d-cb1d-4252-a3e3-64bb5e351966.png)
+Find: [\?&](\w+)=([^&\n]+)
+Replace: \n - $1=$2
+
 
 
 
